@@ -3,6 +3,6 @@ package cn.zzsxt.test;
 public class Test2 {
 
 	public static void main(String[] args) {
-		System.out.println("测试");
+		System.out.println("right");
 	}
 }
